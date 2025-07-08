@@ -1,0 +1,13 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // REGLAS TEMPORALES PARA DESARROLLO - NO USAR EN PRODUCCIÓN
+    // Permitir lectura y escritura completa para desarrollo y testing
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
+
+// IMPORTANTE: Estas reglas permiten acceso completo a la base de datos.
+// Solo usar durante desarrollo. Para producción, usar las reglas en firestore.rules

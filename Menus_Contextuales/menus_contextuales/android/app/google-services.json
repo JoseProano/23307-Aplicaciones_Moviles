@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631967077015",
+    "project_id": "tienda-local-flutter-2024",
+    "storage_bucket": "tienda-local-flutter-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631967077015:android:83bc2350bb136a3f748fd2",
+        "android_client_info": {
+          "package_name": "com.example.menus_contextuales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDNJ_WS4HU-nTN2qaXEolC0rJhLbZyPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
