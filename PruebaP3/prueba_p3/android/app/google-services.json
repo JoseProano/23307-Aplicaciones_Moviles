@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279917091784",
+    "project_id": "prueba-p3-2b85a",
+    "storage_bucket": "prueba-p3-2b85a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279917091784:android:9d7487e5b958895692fefd",
+        "android_client_info": {
+          "package_name": "com.example.prueba_p3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBEPc1CqJBypBgPWm2cApYPFfT9aFffFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
